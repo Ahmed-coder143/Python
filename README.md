@@ -9,3 +9,6 @@ I have implemented a program that takes user input, checks the conditions using 
 
 Simple-Square-Program.py:
 This Python program takes user input, stores the value in a variable named 'number,' squares the 'number,' stores the result in a variable named 'square,' and prints the final squared value.
+
+Modulo-Operation-Praogram
+This simple Python program demonstrates the use of the modulo operation (%). for example if user inputs it sets 'number1' to 10, 'number2' to 3, and then prints the result of 'a % b,' showcasing the remainder when 'number1' is divided by 'number2'
