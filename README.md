@@ -21,3 +21,10 @@ This Python code takes an integer input (input_number) from the user and uses a 
 
 **If-else-program.py**
 This Python code determines and prints the maximum of three numbers (number1,number2,number3) entered by the user. The program uses conditional statements to compare the values and identify the largest number among them.
+
+**Separate-digits-to-integer.py**
+The user to enter a number. It then converts the input integer into a list of its individual digits using a list comprehension. The script concludes by displaying the separated digits using the print function, providing a simple example of digit extraction in Python.
+
+
+
+
