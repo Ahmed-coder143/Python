@@ -18,3 +18,6 @@ This Python code takes a string as user input, converts it to a new string, and 
 
 **Counting_number.py:**
 This Python code takes an integer input (input_number) from the user and uses a for loop to print numbers from 1 to the inputted value (inclusive). Each number is printed on a new line, providing a simple counting sequence.
+
+**If-else-program.py**
+This Python code determines and prints the maximum of three numbers (number1,number2,number3) entered by the user. The program uses conditional statements to compare the values and identify the largest number among them.
