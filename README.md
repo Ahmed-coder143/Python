@@ -32,5 +32,7 @@ The user to input a list of numbers separated by spaces. It then converts the in
 **Maximum-Number.py**
 The user to input a list of numbers separated by spaces. It then converts the input into a list of integers and utilizes the built-in min function to identify and print the largest number from the provided list. 
 
+**Length-count.py**
+The user to enter a numerical input. It then calculates and displays the length of the input using the len function. This concise Python program offers a quick way to determine the number of characters in the user's input, providing insight into the length of the entered value.
 
 
