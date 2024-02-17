@@ -26,5 +26,11 @@ This Python code determines and prints the maximum of three numbers (number1,num
 The user to enter a number. It then converts the input integer into a list of its individual digits using a list comprehension. The script concludes by displaying the separated digits using the print function, providing a simple example of digit extraction in Python.
 
 
+**Minimum-Number.py**
+The user to input a list of numbers separated by spaces. It then converts the input into a list of integers and utilizes the built-in min function to identify and print the smallest number from the provided list. 
+
+**Maximum-Number.py**
+The user to input a list of numbers separated by spaces. It then converts the input into a list of integers and utilizes the built-in min function to identify and print the largest number from the provided list. 
+
 
 
