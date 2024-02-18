@@ -38,4 +38,6 @@ This Python program takes a user-input integer and calculates the sum of its ind
 **Length-count.py**
 The user to enter a numerical input. It then calculates and displays the length of the input using the len function. This concise Python program offers a quick way to determine the number of characters in the user's input, providing insight into the length of the entered value.
 
+**Calculate-length-of-string.py**
+This Python program takes a user-input string, removes any spaces from it, and then calculates and prints the length of the modified string. It uses the replace method to eliminate spaces, and the len function is applied to determine the length of the resulting string. The program prompts the user to enter a string, processes it, and displays the length of the string without spaces.
 
