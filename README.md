@@ -41,3 +41,6 @@ The user to enter a numerical input. It then calculates and displays the length 
 **Calculate-length-of-string.py**
 This Python program takes a user-input string, removes any spaces from it, and then calculates and prints the length of the modified string. It uses the replace method to eliminate spaces, and the len function is applied to determine the length of the resulting string. The program prompts the user to enter a string, processes it, and displays the length of the string without spaces.
 
+**Extract-digits.py**
+This Python program prompts the user to enter a number, then converts each digit of the number into a list of integers using a list comprehension. The resulting list is printed as individual values. 
+
