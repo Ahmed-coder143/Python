@@ -59,3 +59,6 @@ This Python code prompts the user to input a number, converts it into a list of 
 **Reverse-word.py**
 This Python code takes a user input string, reverses the order of its individual words, and then prints the reversed string. The reversed string is constructed by joining the reversed words using whitespace as a separator
 
+**Bitwise-NOT-Operation.py**
+This Python script takes a user-input integer, computes its bitwise complement using the unary bitwise NOT operator (~), and prints the result. The bitwise complement operation inverts each bit of the binary representation of the given number.
+
