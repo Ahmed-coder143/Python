@@ -50,3 +50,6 @@ This Python program prompts the user to enter a number, then converts each digit
 **Simple-interest.py**
 This Python program takes user input for principal amount (P), time duration (T), and rate of interest (R). It then calculates the Simple Interest (SI) using the formula SI = (P * T * R) / 100 and prints the result. The input is obtained as space-separated values and assigned to the respective variables using the map function.
 
+**Capitalize.py**
+This Python program prompts the user to input a string, then reverses the string and capitalizes the first letter. It utilizes string slicing with [::-1] to reverse the string and the capitalize() method to capitalize the first letter. The result is then printed.
+
