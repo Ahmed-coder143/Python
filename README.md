@@ -53,3 +53,6 @@ This Python program takes user input for principal amount (P), time duration (T)
 **Capitalize.py**
 This Python program prompts the user to input a string, then reverses the string and capitalizes the first letter. It utilizes string slicing with [::-1] to reverse the string and the capitalize() method to capitalize the first letter. The result is then printed.
 
+**ODD-Even-Separator.py**
+This Python script prompts the user to input a number, converts it into a list of its individual digits, and then separates the even and odd digits into two distinct lists ('i' for even and 'j' for odd). Finally, the script prints the results, displaying the even and odd digits separately with appropriate labels.
+
