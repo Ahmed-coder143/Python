@@ -47,3 +47,6 @@ This Python program takes a user-input string, removes any spaces from it, and t
 **Extract-digits.py**
 This Python program prompts the user to enter a number, then converts each digit of the number into a list of integers using a list comprehension. The resulting list is printed as individual values. 
 
+**Simple-interest.py**
+This Python program takes user input for principal amount (P), time duration (T), and rate of interest (R). It then calculates the Simple Interest (SI) using the formula SI = (P * T * R) / 100 and prints the result. The input is obtained as space-separated values and assigned to the respective variables using the map function.
+
