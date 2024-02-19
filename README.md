@@ -35,6 +35,9 @@ The user to input a list of numbers separated by spaces. It then converts the in
 **Sum-of-digits.py**
 This Python program takes a user-input integer and calculates the sum of its individual digits using a while loop. It iteratively extracts the last digit of the number and adds it to a running sum until there are no more digits left. Finally, it prints the calculated sum.
 
+**Calculate-sum-using-range.py**
+This Python program prompts the user to enter an integer, and then calculates the sum of all integers from 1 to the entered number (inclusive). It utilizes a for loop to iterate through the range of numbers and accumulates the sum in the variable sum_num. Finally, it prints the total sum.
+
 **Length-count.py**
 The user to enter a numerical input. It then calculates and displays the length of the input using the len function. This concise Python program offers a quick way to determine the number of characters in the user's input, providing insight into the length of the entered value.
 
