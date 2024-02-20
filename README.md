@@ -65,3 +65,6 @@ This Python script takes a user-input integer, computes its bitwise complement u
 **Rock-Paper-Scissors Game.py**
 This Python script implements a simple Rock-Paper-Scissors game where two players input their choices (rock, paper, or scissors), and the program determines the winner based on the game rules. The variables P, R, and S represent the choices for rock, paper, and scissors, respectively. The script checks for different combinations of player inputs and prints the result, whether it's a draw ("D") or one of the players wins (either "P" for paper wins, "R" for rock wins, or "S" for scissors wins).
 
+**func-sample.py**
+The "func" function takes two numerical parameters, x and y, and performs basic arithmetic operations on them. The function prints the sum, difference, quotient, product, and remainder of x and y. Additionally, it prints a summary line containing all these results. In the provided example with values 4 and 8, the function demonstrates these operations for those specific inputs.
+
