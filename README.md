@@ -68,3 +68,6 @@ This Python script implements a simple Rock-Paper-Scissors game where two player
 **func-sample.py**
 The "func" function takes two numerical parameters, x and y, and performs basic arithmetic operations on them. The function prints the sum, difference, quotient, product, and remainder of x and y. Additionally, it prints a summary line containing all these results. In the provided example with values 4 and 8, the function demonstrates these operations for those specific inputs.
 
+Lambda.py
+This Python code defines a lambda function named "func" that takes a variable number of arguments (*x) and calculates their sum using the built-in sum() function. The lambda function is then invoked with the arguments 10, 2, 4, 2, and 3. The result is stored in the variable "result" and printed, which, in this case, outputs the sum of the provided numbers (10 + 2 + 4 + 2 + 3).
+
