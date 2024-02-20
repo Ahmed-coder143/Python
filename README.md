@@ -62,3 +62,6 @@ This Python code takes a user input string, reverses the order of its individual
 **Bitwise-NOT-Operation.py**
 This Python script takes a user-input integer, computes its bitwise complement using the unary bitwise NOT operator (~), and prints the result. The bitwise complement operation inverts each bit of the binary representation of the given number.
 
+**Rock-Paper-Scissors Game.py**
+This Python script implements a simple Rock-Paper-Scissors game where two players input their choices (rock, paper, or scissors), and the program determines the winner based on the game rules. The variables P, R, and S represent the choices for rock, paper, and scissors, respectively. The script checks for different combinations of player inputs and prints the result, whether it's a draw ("D") or one of the players wins (either "P" for paper wins, "R" for rock wins, or "S" for scissors wins).
+
