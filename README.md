@@ -76,3 +76,5 @@ This Python code defines a function named "func" that takes four parameters repr
 
 The function is invoked with specific values (8, 6, 9, 7), and the result is stored in the variable "result." Finally, the tuple is printed, displaying both the average and the sum of the provided numbers.
 
+**Common-Elements-Checker.py**
+This Python script takes two lists of numbers as input, converts them to sets, prints the original lists, prints the common elements if any, and determines if there are any common elements between the two sets. It then prints "Common elements: yes" if there are common elements and "Common elements: no" otherwise
