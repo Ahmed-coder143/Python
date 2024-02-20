@@ -71,3 +71,8 @@ The "func" function takes two numerical parameters, x and y, and performs basic 
 Lambda.py
 This Python code defines a lambda function named "func" that takes a variable number of arguments (*x) and calculates their sum using the built-in sum() function. The lambda function is then invoked with the arguments 10, 2, 4, 2, and 3. The result is stored in the variable "result" and printed, which, in this case, outputs the sum of the provided numbers (10 + 2 + 4 + 2 + 3).
 
+**Func-avg-sum.py**
+This Python code defines a function named "func" that takes four parameters representing numerical values (m1, m2, m3, m4). Inside the function, it calculates the average and sum of these values. The average is computed by dividing the sum of the values by 10. The function then returns a tuple containing the average and sum.
+
+The function is invoked with specific values (8, 6, 9, 7), and the result is stored in the variable "result." Finally, the tuple is printed, displaying both the average and the sum of the provided numbers.
+
