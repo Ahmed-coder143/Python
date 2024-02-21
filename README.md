@@ -78,3 +78,7 @@ The function is invoked with specific values (8, 6, 9, 7), and the result is sto
 
 **Common-Elements-Checker.py**
 This Python script takes two lists of numbers as input, converts them to sets, prints the original lists, prints the common elements if any, and determines if there are any common elements between the two sets. It then prints "Common elements: yes" if there are common elements and "Common elements: no" otherwise
+
+**ASCII-Sum.py**
+This Python script defines a function, sum_ascii, which calculates the sum of ASCII values for each character in a given string. The user is prompted to input a string, and the script then prints the total ASCII sum.
+
