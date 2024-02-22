@@ -91,4 +91,7 @@ This Python script takes a numeric input, separates its digits into even and odd
 **Multiples.py**
 This Python script takes a user-input integer, generates multiples of 9 up to that number, and prints the list of the generated values.
 
+**Number-Positivity-Checker.py**
+This Python script defines a function func that takes a numeric input, checks if it's positive, negative, or zero, and then prints the result.
+
 
