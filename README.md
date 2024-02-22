@@ -88,4 +88,7 @@ This Python script prompts the user to input a number, checks if the number is d
 **Even-and-Odd-Digit-Sorter.py**
 This Python script takes a numeric input, separates its digits into even and odd groups, and prints the sorted lists of even and odd digits.
 
+**Multiples.py**
+This Python script takes a user-input integer, generates multiples of 9 up to that number, and prints the list of the generated values.
+
 
