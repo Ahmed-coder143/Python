@@ -85,3 +85,7 @@ This Python script defines a function, sum_ascii, which calculates the sum of AS
 **Divisibility-Checker-for-7.py**
 This Python script prompts the user to input a number, checks if the number is divisible by 7, and prints "yes" if it is, or "no" otherwise.
 
+**Even-and-Odd-Digit-Sorter.py**
+This Python script takes a numeric input, separates its digits into even and odd groups, and prints the sorted lists of even and odd digits.
+
+
