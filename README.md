@@ -106,6 +106,8 @@ This Python script prompts the user to input a binary number, converts it to its
 **Octal.py**
 This Python script prompts the user to input a binary number, converts it to its decimal equivalent using the int() function with base 2, and then further converts the decimal number to its octal representation using the oct() function. The script removes the '0o' prefix from the octal representation for a cleaner output. Finally, it prints the original binary number along with its octal equivalent. This tool provides a straightforward conversion from binary to octal in Python.
 
+**Merge.py**
+This Python script prompts the user to input two sets of space-separated integers, representing arrays arr1 and arr2. The script then merges the two arrays, sorts the resulting array, and prints the sorted values. The user is guided to input numbers for arr1 and arr2. The final output displays the merged and sorted array
 
 
 
