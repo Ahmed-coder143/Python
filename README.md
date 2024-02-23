@@ -97,4 +97,7 @@ This Python script defines a function func that takes a numeric input, checks if
 **Positivity-Lambda.py**
 This Python script uses a lambda function to check if a user-input number is positive, negative, or zero and prints the result.
 
+**Counting-binary.py**
+This Python script takes an integer as user input, converts it to its binary representation using the bin() function, counts the number of '1's in the binary string using the count() method, and prints the result. The output provides the count of set bits (ones) in the binary representation of the entered number. This script serves as a simple tool to determine the number of '1's in the binary form of a given integer.
+
 
