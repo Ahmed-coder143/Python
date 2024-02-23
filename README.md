@@ -94,4 +94,7 @@ This Python script takes a user-input integer, generates multiples of 9 up to th
 **Number-Positivity-Checker.py**
 This Python script defines a function func that takes a numeric input, checks if it's positive, negative, or zero, and then prints the result.
 
+**Positivity-Lambda.py**
+This Python script uses a lambda function to check if a user-input number is positive, negative, or zero and prints the result.
+
 
