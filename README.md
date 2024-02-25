@@ -109,6 +109,9 @@ This Python script prompts the user to input a binary number, converts it to its
 **Merge.py**
 This Python script prompts the user to input two sets of space-separated integers, representing arrays arr1 and arr2. The script then merges the two arrays, sorts the resulting array, and prints the sorted values. The user is guided to input numbers for arr1 and arr2. The final output displays the merged and sorted array
 
+**Maximum-Subarray-Sum.py**
+The provided Python code implements Kadane's algorithm to efficiently calculate the maximum sum of any subarray within a given array. The algorithm maintains a running sum while iterating through the array elements, selecting the maximum between the current element and the cumulative sum. The maximum subarray sum is continuously updated, resulting in an optimized solution for finding the maximum subarray sum. The code includes user input for the array size and values, making it adaptable for various scenarios.
+
 
 
 
