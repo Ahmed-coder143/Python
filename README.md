@@ -115,6 +115,14 @@ The provided Python code implements Kadane's algorithm to efficiently calculate 
 **import-math.py**
 This Python script calculates the greatest common divisor (GCD) of factorials. The factorial function from the math module is used to compute factorials, and the find_gcd function determines the GCD of A! and B! based on the comparison of A and B. The program takes two numbers A and B as input and outputs the GCD of A! and B!, providing a simple and effective solution for the given task.
 
+**Descending-Order.py**
+This Python program allows the user to input a number and then rearranges its digits in descending order. The program uses the sorted() function to sort the individual digits in reverse order, joins them back into a string, and converts the result back to an integer. The ordered number is then displayed as the output. This simple script demonstrates a basic application of string manipulation and sorting in Python.
+
+
+
+
+
+
 
 
 
