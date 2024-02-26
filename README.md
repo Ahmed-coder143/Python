@@ -118,6 +118,8 @@ This Python script calculates the greatest common divisor (GCD) of factorials. T
 **Descending-Order.py**
 This Python program allows the user to input a number and then rearranges its digits in descending order. The program uses the sorted() function to sort the individual digits in reverse order, joins them back into a string, and converts the result back to an integer. The ordered number is then displayed as the output. This simple script demonstrates a basic application of string manipulation and sorting in Python.
 
+**Sort-List-of-Integers.py**
+This Python program solicits user input for a single integer user_input and a list of space-separated integers arr. It then converts the input list into a list of integers using map and split, sorts the list in ascending order using sorted, and finally prints the sorted list using the print function with the * unpacking operator. The program effectively demonstrates the process of receiving user input, converting it into a usable format, sorting a list of integers, and displaying the result.
 
 
 
