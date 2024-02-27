@@ -124,6 +124,15 @@ This Python program solicits user input for a single integer user_input and a li
 **Permutations-String.py**
 This Python script takes a user-input string and utilizes the itertools.permutations module to generate and print all possible permutations of its characters. The program prompts the user to input a string, calculates its permutations, and then prints each permutation on a new line.
 
+**Check-Collinearity.py**
+
+This Python program takes user input for the coordinates of three points and determines whether they lie on the same line. It calculates the slopes between pairs of points and prints the result. If the slopes are equal, indicating collinearity, it prints "The points are collinear: yes"; otherwise, it prints "The points are non-collinear: no". The program demonstrates a straightforward collinearity check based on slope comparison.
+
+
+
+
+
+
 
 
 
