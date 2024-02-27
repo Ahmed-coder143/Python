@@ -131,7 +131,8 @@ This Python program takes user input for the coordinates of three points and det
 **Position-Finder.py**
 This Python program takes an integer as input, converts it to binary, and determines the position of the rightmost '1' in its binary representation. It then prints the position of the rightmost '1'. The program demonstrates a simple method to find the position of the rightmost set bit in binary representation by iterating through the binary digits from right to left.
 
-
+**Unique-elements.py**
+This Python program prompts the user for the size of an array and an array of elements. It removes duplicate elements from the array while preserving the original order and prints the resulting array. If no duplicate elements are found, it prints the array as it is. The program demonstrates a simple method for handling unique elements in an array.
 
 
 
