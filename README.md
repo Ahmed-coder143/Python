@@ -121,6 +121,8 @@ This Python program allows the user to input a number and then rearranges its di
 **Sort-List-of-Integers.py**
 This Python program solicits user input for a single integer user_input and a list of space-separated integers arr. It then converts the input list into a list of integers using map and split, sorts the list in ascending order using sorted, and finally prints the sorted list using the print function with the * unpacking operator. The program effectively demonstrates the process of receiving user input, converting it into a usable format, sorting a list of integers, and displaying the result.
 
+**Permutations-String.py**
+This Python script takes a user-input string and utilizes the itertools.permutations module to generate and print all possible permutations of its characters. The program prompts the user to input a string, calculates its permutations, and then prints each permutation on a new line.
 
 
 
