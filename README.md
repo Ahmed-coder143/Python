@@ -128,6 +128,9 @@ This Python script takes a user-input string and utilizes the itertools.permutat
 
 This Python program takes user input for the coordinates of three points and determines whether they lie on the same line. It calculates the slopes between pairs of points and prints the result. If the slopes are equal, indicating collinearity, it prints "The points are collinear: yes"; otherwise, it prints "The points are non-collinear: no". The program demonstrates a straightforward collinearity check based on slope comparison.
 
+**Position-Finder.py**
+This Python program takes an integer as input, converts it to binary, and determines the position of the rightmost '1' in its binary representation. It then prints the position of the rightmost '1'. The program demonstrates a simple method to find the position of the rightmost set bit in binary representation by iterating through the binary digits from right to left.
+
 
 
 
