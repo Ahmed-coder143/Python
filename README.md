@@ -134,7 +134,8 @@ This Python program takes an integer as input, converts it to binary, and determ
 **Unique-elements.py**
 This Python program prompts the user for the size of an array and an array of elements. It removes duplicate elements from the array while preserving the original order and prints the resulting array. If no duplicate elements are found, it prints the array as it is. The program demonstrates a simple method for handling unique elements in an array.
 
-
+**Longest-Palindromic.py**
+This program takes a user-inputted string, and using dynamic programming, it calculates and prints the length of the longest palindromic substring present in the input string. The code utilizes a table to store intermediate results while efficiently exploring all possible substrings to identify the longest palindromic substring.
 
 
 
