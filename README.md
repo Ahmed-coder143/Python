@@ -146,6 +146,15 @@ This Python script prompts the user to enter two integers, calculates their fact
 **List-Reversal.py**
 This Python program takes an integer N followed by a list of N numbers, reverses the list, and prints the reversed list in a formatted output using "->" separators. It ensures that the input size is within the specified bounds (1 <= N <= 10000) and handles the reversal of the list accordingly.
 
+**Balanced-Parentheses-Checker.py**
+This Python program takes a string consisting of only '(' and ')' as input and checks whether the parentheses are balanced. If the parentheses are balanced, it prints 'yes'; otherwise, it prints 'no'. The program utilizes a stack data structure to efficiently determine the balance of the parentheses in the given string.
+
+
+
+
+
+
+
 
 
 
