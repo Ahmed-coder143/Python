@@ -137,6 +137,9 @@ This Python program prompts the user for the size of an array and an array of el
 **Longest-Palindromic.py**
 This program takes a user-inputted string, and using dynamic programming, it calculates and prints the length of the longest palindromic substring present in the input string. The code utilizes a table to store intermediate results while efficiently exploring all possible substrings to identify the longest palindromic substring.
 
+**LCS-Strings.py**
+This program defines a function lcs_of_three_strings that calculates the Longest Common Subsequence (LCS) for three input strings using dynamic programming. It then takes three space-separated strings as input from the user, computes the LCS, and prints the result. The LCS represents the longest sequence of characters common to all three strings. If there is no common subsequence, it outputs -1.
+
 
 
 
