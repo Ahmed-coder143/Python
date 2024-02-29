@@ -143,6 +143,8 @@ This program defines a function lcs_of_three_strings that calculates the Longest
 **Factorial-Division.py**
 This Python script prompts the user to enter two integers, calculates their factorials, performs the division of the factorials, and then prints the result. The math module is used for factorial calculations.
 
+**List-Reversal.py**
+This Python program takes an integer N followed by a list of N numbers, reverses the list, and prints the reversed list in a formatted output using "->" separators. It ensures that the input size is within the specified bounds (1 <= N <= 10000) and handles the reversal of the list accordingly.
 
 
 
