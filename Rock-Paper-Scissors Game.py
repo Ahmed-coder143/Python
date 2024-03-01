@@ -1,3 +1,4 @@
+#Rock Paper Scissor game
 P="P"
 R="R"
 S="S"
