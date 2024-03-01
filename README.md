@@ -39,7 +39,8 @@ This Python program takes a user-input integer and calculates the sum of its ind
 This Python program prompts the user to enter an integer, and then calculates the sum of all integers from 1 to the entered number (inclusive). It utilizes a for loop to iterate through the range of numbers and accumulates the sum in the variable sum_num. Finally, it prints the total sum.
 
 **Length-count.py**
-The user to enter a numerical input. It then calculates and displays the length of the input using the len function. This concise Python program offers a quick way to determine the number of characters in the user's input, providing insight into the length of the entered value.
+The user to enter a numerical input. It then calculates and displays the length of the input using the len function. This concise Python program offers a quick
+way to determine the number of characters in the user's input, providing insight into the length of the entered value.
 
 **Calculate-length-of-string.py**
 This Python program takes a user-input string, removes any spaces from it, and then calculates and prints the length of the modified string. It uses the replace method to eliminate spaces, and the len function is applied to determine the length of the resulting string. The program prompts the user to enter a string, processes it, and displays the length of the string without spaces.
