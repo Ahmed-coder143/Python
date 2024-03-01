@@ -1,4 +1,4 @@
-#Bacic addition program
+#Basic addition program
 number1=int(input())
 number2=int(input())
 sum_numbers=number1+number2
