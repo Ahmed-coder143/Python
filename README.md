@@ -103,7 +103,8 @@ This Python script uses a lambda function to check if a user-input number is pos
 This Python script takes an integer as user input, converts it to its binary representation using the bin() function, counts the number of '1's in the binary string using the count() method, and prints the result. The output provides the count of set bits (ones) in the binary representation of the entered number. This script serves as a simple tool to determine the number of '1's in the binary form of a given integer.
 
 **Hexadecimal.py**
-This Python script prompts the user to input a binary number, converts it to its decimal equivalent using the int() function with base 2, and then further converts the decimal number to its hexadecimal representation using the hex() function. The script finally prints the original binary number along with its hexadecimal equivalent. This tool provides a simple conversion from binary to hexadecimal in Python.
+This Python script prompts the user to input a binary number, converts it to its decimal equivalent using the int() function with base 2, and then further 
+converts the decimal number to its hexadecimal representation using the hex() function. The script finally prints the original binary number along with its hexadecimal equivalent. This tool provides a simple conversion from binary to hexadecimal in Python.
 
 **Octal.py**
 This Python script prompts the user to input a binary number, converts it to its decimal equivalent using the int() function with base 2, and then further converts the decimal number to its octal representation using the oct() function. The script removes the '0o' prefix from the octal representation for a cleaner output. Finally, it prints the original binary number along with its octal equivalent. This tool provides a straightforward conversion from binary to octal in Python.
