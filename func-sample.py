@@ -1,3 +1,4 @@
+#fuction basic sample
 def func(x,y):
     print(x+y)
     print(x-y)
