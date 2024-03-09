@@ -8,7 +8,8 @@ This program basic additon progaram,we will get input(two numbers) from user and
 I have implemented a program that takes user input, checks the conditions using an 'if' statement, and prints whether the given value is odd, even, or zero
 
 **Simple-Square-Program.py:**
-This Python program takes user input, stores the value in a variable named 'number,' squares the 'number,' stores the result in a variable named 'square,' and prints the final squared value.
+This Python program takes user input, stores the value in a variable named 'number,' squares the 'number,' stores the result in a variable named 'square,' and 
+prints the final squared value.
 
 **Modulo-Operation-Praogram:**
 This simple Python program demonstrates the use of the modulo operation (%). for example if user inputs it sets 'number1' to 10, 'number2' to 3, and then prints 
