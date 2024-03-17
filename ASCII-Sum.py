@@ -1,3 +1,4 @@
+#find ascii sum
 def sum_ascii(x):
     total=sum(ord(char) for char in x)
     print(total)

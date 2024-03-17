@@ -1,3 +1,4 @@
+#camelcase
 def is_camel_case(s):
     
     if any(char.islower() for char in s) and any(char.isupper() for char in s):

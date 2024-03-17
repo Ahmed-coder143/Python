@@ -1,17 +1,19 @@
 **Adding_two_numbers.py:**
-above one is basic addition program, I gave input(two numbers)through program and addition the numbers.
+This is basic addition program, I gave input(two numbers)through program and addition the numbers.
 
 **Addition_get_input_from_user_basic.py:**
-this program basic additon progaram,we will get input(two numbers) from user and add the numbers and then show result
+This program basic additon progaram,we will get input(two numbers) from user and add the numbers and then show result.
 
 **Odd-Even Number Checker Program.py":**
 I have implemented a program that takes user input, checks the conditions using an 'if' statement, and prints whether the given value is odd, even, or zero
 
 **Simple-Square-Program.py:**
-This Python program takes user input, stores the value in a variable named 'number,' squares the 'number,' stores the result in a variable named 'square,' and prints the final squared value.
+This Python program takes user input, stores the value in a variable named 'number,' squares the 'number,' stores the result in a variable named 'square,' and 
+prints the final squared value.
 
 **Modulo-Operation-Praogram:**
-This simple Python program demonstrates the use of the modulo operation (%). for example if user inputs it sets 'number1' to 10, 'number2' to 3, and then prints the result of 'a % b,' showcasing the remainder when 'number1' is divided by 'number2'
+This simple Python program demonstrates the use of the modulo operation (%). for example if user inputs it sets 'number1' to 10, 'number2' to 3, and then prints 
+the result of 'a % b,' showcasing the remainder when 'number1' is divided by 'number2'
 
 **Reverse_string.py:**
 This Python code takes a string as user input, converts it to a new string, and then prints the reversed version of the input string. The reversal is achieved using slicing with [::-1].
@@ -39,7 +41,8 @@ This Python program takes a user-input integer and calculates the sum of its ind
 This Python program prompts the user to enter an integer, and then calculates the sum of all integers from 1 to the entered number (inclusive). It utilizes a for loop to iterate through the range of numbers and accumulates the sum in the variable sum_num. Finally, it prints the total sum.
 
 **Length-count.py**
-The user to enter a numerical input. It then calculates and displays the length of the input using the len function. This concise Python program offers a quick way to determine the number of characters in the user's input, providing insight into the length of the entered value.
+The user to enter a numerical input. It then calculates and displays the length of the input using the len function. This concise Python program offers a quick
+way to determine the number of characters in the user's input, providing insight into the length of the entered value.
 
 **Calculate-length-of-string.py**
 This Python program takes a user-input string, removes any spaces from it, and then calculates and prints the length of the modified string. It uses the replace method to eliminate spaces, and the len function is applied to determine the length of the resulting string. The program prompts the user to enter a string, processes it, and displays the length of the string without spaces.
@@ -101,7 +104,8 @@ This Python script uses a lambda function to check if a user-input number is pos
 This Python script takes an integer as user input, converts it to its binary representation using the bin() function, counts the number of '1's in the binary string using the count() method, and prints the result. The output provides the count of set bits (ones) in the binary representation of the entered number. This script serves as a simple tool to determine the number of '1's in the binary form of a given integer.
 
 **Hexadecimal.py**
-This Python script prompts the user to input a binary number, converts it to its decimal equivalent using the int() function with base 2, and then further converts the decimal number to its hexadecimal representation using the hex() function. The script finally prints the original binary number along with its hexadecimal equivalent. This tool provides a simple conversion from binary to hexadecimal in Python.
+This Python script prompts the user to input a binary number, converts it to its decimal equivalent using the int() function with base 2, and then further 
+converts the decimal number to its hexadecimal representation using the hex() function. The script finally prints the original binary number along with its hexadecimal equivalent. This tool provides a simple conversion from binary to hexadecimal in Python.
 
 **Octal.py**
 This Python script prompts the user to input a binary number, converts it to its decimal equivalent using the int() function with base 2, and then further converts the decimal number to its octal representation using the oct() function. The script removes the '0o' prefix from the octal representation for a cleaner output. Finally, it prints the original binary number along with its octal equivalent. This tool provides a straightforward conversion from binary to octal in Python.
@@ -110,7 +114,8 @@ This Python script prompts the user to input a binary number, converts it to its
 This Python script prompts the user to input two sets of space-separated integers, representing arrays arr1 and arr2. The script then merges the two arrays, sorts the resulting array, and prints the sorted values. The user is guided to input numbers for arr1 and arr2. The final output displays the merged and sorted array
 
 **Maximum-Subarray-Sum.py**
-The provided Python code implements Kadane's algorithm to efficiently calculate the maximum sum of any subarray within a given array. The algorithm maintains a running sum while iterating through the array elements, selecting the maximum between the current element and the cumulative sum. The maximum subarray sum is continuously updated, resulting in an optimized solution for finding the maximum subarray sum. The code includes user input for the array size and values, making it adaptable for various scenarios.
+The provided Python code implements Kadane's algorithm to efficiently calculate the maximum sum of any subarray within a given array. The algorithm maintains a 
+running sum while iterating through the array elements, selecting the maximum between the current element and the cumulative sum. The maximum subarray sum is continuously updated, resulting in an optimized solution for finding the maximum subarray sum. The code includes user input for the array size and values, making it adaptable for various scenarios.
 
 **import-math.py**
 This Python script calculates the greatest common divisor (GCD) of factorials. The factorial function from the math module is used to compute factorials, and the find_gcd function determines the GCD of A! and B! based on the comparison of A and B. The program takes two numbers A and B as input and outputs the GCD of A! and B!, providing a simple and effective solution for the given task.
@@ -145,6 +150,15 @@ This Python script prompts the user to enter two integers, calculates their fact
 
 **List-Reversal.py**
 This Python program takes an integer N followed by a list of N numbers, reverses the list, and prints the reversed list in a formatted output using "->" separators. It ensures that the input size is within the specified bounds (1 <= N <= 10000) and handles the reversal of the list accordingly.
+
+**Balanced-Parentheses-Checker.py**
+This Python program takes a string consisting of only '(' and ')' as input and checks whether the parentheses are balanced. If the parentheses are balanced, it prints 'yes'; otherwise, it prints 'no'. The program utilizes a stack data structure to efficiently determine the balance of the parentheses in the given string.
+
+
+
+
+
+
 
 
 
