@@ -154,6 +154,9 @@ This Python program takes an integer N followed by a list of N numbers, reverses
 **Balanced-Parentheses-Checker.py**
 This Python program takes a string consisting of only '(' and ')' as input and checks whether the parentheses are balanced. If the parentheses are balanced, it prints 'yes'; otherwise, it prints 'no'. The program utilizes a stack data structure to efficiently determine the balance of the parentheses in the given string.
 
+**Quadratic-Equation-Solver.py**
+This Python script calculates the roots of a quadratic equation of the form ax^2 + bx + c = 0 using the quadratic formula. It utilizes complex numbers for cases where the discriminant is negative. The script prompts the user to input coefficients a, b, and c, and then prints the real parts of the roots rounded to two decimal places.
+
 
 
 
